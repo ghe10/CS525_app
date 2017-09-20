@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="heronapi">
+    <CLASSES>
+      <root url="file:///usr/local/heronapi" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///usr/local/heronapi" recursive="false" />
+  </library>
+</component>
